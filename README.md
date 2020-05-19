@@ -1,2 +1,2 @@
 # Food-Bank-Web-Scraper
-Web scraper for The Trussell Trust interactive map and regional statistics. 
+Scraped data from the Trussell Trust. Contains all foodbanks from their interactive map and also quantities of supplies distributed per year per region. 
